@@ -3,6 +3,27 @@
   <groupId>com.mandalarsoft</groupId>
   <artifactId>myanmar-lorem-ipsum</artifactId>
   <version>1.0</version>
+  <packaging>jar</packaging>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Zayar Shin Thant</name>
+      <email>zayarthant.deca@gmail.com</email>
+      <organization>MandalarSoft</organization>
+      <organizationUrl>https://www.mandalarsoft.com</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <connection>https://github.com/zayarthant/myanmar-lorem-ipsum.git</connection>
+    <developerConnection>scm:git:git@github.com:zayarthant/myanmar-lorem-ipsum.git</developerConnection>
+    <url>https://github.com/zayarthant/myanmar-lorem-ipsum</url>
+  </scm>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
