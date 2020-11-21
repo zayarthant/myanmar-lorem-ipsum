@@ -1,4 +1,4 @@
-package com.mdls.mli;
+package com.mandalarsoft.mli;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.mdls.mli;
+package com.mandalarsoft.mli;
 
 /**
  * Myanmar Lorem Ipsum Dummy Text Generator

@@ -11,8 +11,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-src/main/java/com/mdls/mli/App.java
-src/test/java/com/mdls/mli/AppTest.java
+src/main/java/com/mandalarsoft/mli/App.java
+src/test/java/com/mandalarsoft/mli/AppTest.java
 
 #
 # IntelliJ
