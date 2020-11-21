@@ -23,7 +23,7 @@ public class DummyText {
     }
 
     public String generate(String rawString, int count){
-        rawString = rawString.replaceAll("[။၊ \s]", "");
+        rawString = rawString.replaceAll("[။၊ \\s]", "");
         rawString = syllableSegmentation.segment(rawString, ",");
         final String[] letter = rawString.split(",");
         return dummyTextEngine.createDummyText(letter, count).toString();
