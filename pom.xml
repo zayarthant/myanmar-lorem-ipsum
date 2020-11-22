@@ -4,6 +4,9 @@
   <artifactId>myanmar-lorem-ipsum</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
+  <name>Myanmar Lorem Ipsum</name>
+  <description>Dummy Text Generator For Myanmar Languages</description>
+  <url>https://github.com/zayarthant/myanmar-lorem-ipsum</url>
   <licenses>
     <license>
       <name>MIT License</name>
