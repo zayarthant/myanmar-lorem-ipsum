@@ -4,7 +4,6 @@ package com.mandalarsoft.mli;
  * Myanmar Lorem Ipsum Dummy Text Generator
  * 
  * @author Zayar Shin Thant
- * @see com.mdls.mli.DummyText.class
  * @since 1.0
  * 
  */

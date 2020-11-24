@@ -9,7 +9,6 @@ import java.io.InputStreamReader;
  * Myanmar Lorem Ipsum Dummy Text Generator
  * 
  * @author Zayar Shin Thant
- * @see com.mdls.mli.Resources.class
  * @since 1.0
  * 
  */

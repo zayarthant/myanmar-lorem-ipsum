@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * syllable breaking tool for Myanmar language
  * @author Chan Mrate Ko Ko https://github.com/chanmratekoko
- * @see https://github.com/ye-kyaw-thu/sylbreak/tree/master/Java
+ * https://github.com/ye-kyaw-thu/sylbreak/tree/master/Java
  */
 public class SyllableSegmentation {
 
