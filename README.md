@@ -8,8 +8,8 @@ English ဘာသာ Lorem ipsum စာများသည် ယေဘုယျ�
 
 ပါဠိစာအမှန် (၁၂) ကြောင်း နှင့် မြန်မာ စာအမှန် (၁၂) ကြောင်း၏ ဝဏ္ဏ syllable များကို ကျပန်း ရောမွှေ ပါသည်။ အဆိုပါ ကျပန်း ဝဏ္ဏ (၂) လုံး မှ (၆) လုံးအထိကိုစုစည်းပြီး ကျပန်း ပုဒ်စု phrase ကိုရရှိပါသည်။ အဆိုပါ ပုဒ်စု (၃) ခုမှ (၉) ခုကို စုစည်းပြီး ၀ါကျ sentence များကို တည်ဆောက်ပါသည်။ ရလဒ်အနေနှင့် စာအမှန်နှင့် အမြင်တွင်လွန်စွာ ဆင်တူပြီး ဖတ်ရှုရန် မလွယ်သော ၀ါကျများကို ရရှိပါသည်။
 
-Inspiration from [Sylbreak](https://github.com/ye-kyaw-thu/sylbreak "Sylbreak") by [Ye Kyaw Thu](https://github.com/ye-kyaw-thu "Ye Kyaw Thu")
-Java sylbreak credit go to [Chan Mrate Ko Ko](https://github.com/chanmratekoko "Chan Mrate Ko Ko").
+- Inspiration from [Sylbreak](https://github.com/ye-kyaw-thu/sylbreak "Sylbreak") by [Ye Kyaw Thu](https://github.com/ye-kyaw-thu "Ye Kyaw Thu")
+- Java sylbreak credit go to [Chan Mrate Ko Ko](https://github.com/chanmratekoko "Chan Mrate Ko Ko").
 
 Contributors [Phyo Zaw Tun](https://github.com/phyozawtun "Phyo Zaw Tun") and [Zayar Shin Thant](https://github.com/zayarthant "Zayar Shin Thant")
 
