@@ -39,20 +39,18 @@ implementation 'com.mandalarsoft:myanmar-lorem-ipsum:1.0'
 3. PALI - ပါဠိ
 4. SHAN - သျှမ်းစာ (ရှမ်း)
 
-###### Quick Guide
+#### Quick Guide
 
-Generating Dummey Text
+Generating Dummey Text (resource name, paragraph)
 ```java
 String result = DummyTextGenerator.get(Resources.SHAN, 1);
 ```
 
-With Custorm raw data
+With Custorm raw data (string, paragraph)
 ```java
 DummyText dummyText = new DummyText();
 dummyText.generate("မြန်မာစာ ဖော်ပြမှု", 0);
 ```
-
-
 
 
 
