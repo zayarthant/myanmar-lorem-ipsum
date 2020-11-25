@@ -32,9 +32,25 @@ implementation 'com.mandalarsoft:myanmar-lorem-ipsum:1.0'
 
 ###### More Dependency Managements - [Go To Maven Central](https://search.maven.org/artifact/com.mandalarsoft/myanmar-lorem-ipsum/1.0/jar "Maven Central")
 
+###### Supported Languages
 
+1. OFFICE - ရုံးစာ
+2. GOV - အစိုးရနှင့်သက်ဆိုင်သော
+3. PALI - ပါဠိ
+4. SHAN - သျှမ်းစာ (ရှမ်း)
 
+###### Quick Guide
 
+Generating Dummey Text
+```java
+String result = DummyTextGenerator.get(Resources.SHAN, 1);
+```
+
+With Custorm raw data
+```java
+DummyText dummyText = new DummyText();
+dummyText.generate("မြန်မာစာ ဖော်ပြမှု", 0);
+```
 
 
 
